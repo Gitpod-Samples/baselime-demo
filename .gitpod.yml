@@ -1,0 +1,2 @@
+tasks:
+  - command: curl -s https://get.baselime.io | sudo bash && baselime login
